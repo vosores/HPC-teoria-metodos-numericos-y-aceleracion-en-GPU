@@ -80,15 +80,16 @@ implementaciones en CPU y GPU para distintos modelos.
 
 ### Notebooks
 #### Día 1
-- [riemman_problem.py](https://colab.research.google.com/drive/1NIIyn2bV4rpME4oqXrBLhHadJEE2dXpm?usp=sharing)
-- [upwind.py](https://colab.research.google.com/drive/1daSbCb0yCY7dI9bLN7l1nFZ7FlVLlxtA?usp=sharing)
-- [burgers_godunov](https://colab.research.google.com/drive/1o950t9zbQiGzGj-h_xljx0g_o-PbJAcb?usp=sharing)
+- [riemman_problem.py](https://gist.github.com/vosores/1fc8754dd79f8e247f20de610c99b004)
+- [upwind.py](https://gist.github.com/vosores/a64895fd54232cefe78cd285109a0693)
+- [burgers_godunov](https://gist.github.com/vosores/28887e4268b83007d3fd8299ff073355)
+- [num_method](https://gist.github.com/vosores/979f55346142ac391d7f95ae918d7ce0)
 
 ### Codigos_CPU
 - [Sesión 1: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia1/)
-- [Sesión 2: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/tree/main/Codigos_CPU/Dia2)
-- [Sesión 3: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/tree/main/Codigos_CPU/Dia3)
-- [Sesión 4: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/tree/main/Codigos_CPU/Dia4)
+- [Sesión 2: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia2)
+- [Sesión 3: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia3)
+- [Sesión 4: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia4)
 
 ### Codigos_GPU
 - [Sesión 1: Códigos GPU.]()
