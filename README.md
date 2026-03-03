@@ -75,6 +75,26 @@ implementaciones en CPU y GPU para distintos modelos.
     ├── Codigos_GPU/
     └── README.md
 
+### Presentaciones
+- [Sesión 1: Leyes de conservación y métodos numéricos parte 1.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Presentaciones/Dia1/seminario_dia1.pdf)
+
+### Notebooks
+- [Sesión 1: riemman_problem.py](https://colab.research.google.com/drive/1NIIyn2bV4rpME4oqXrBLhHadJEE2dXpm?usp=sharing)
+- [Sesión 1: upwind.py](https://colab.research.google.com/drive/1daSbCb0yCY7dI9bLN7l1nFZ7FlVLlxtA?usp=sharing)
+- [Sesión 1: burgers_godunov](https://colab.research.google.com/drive/1o950t9zbQiGzGj-h_xljx0g_o-PbJAcb?usp=sharing)
+
+### Codigos_CPU
+- [Sesión 1: Códigos CPU.]()
+- [Sesión 2: Códigos CPU.]()
+- [Sesión 3: Códigos CPU.]()
+- [Sesión 4: Códigos CPU.]()
+
+### Codigos_GPU
+- [Sesión 1: Códigos GPU.]()
+- [Sesión 2: Códigos GPU.]()
+- [Sesión 3: Códigos GPU.]()
+- [Sesión 4: Códigos GPU.]()
+
 ## Requisitos
 
 -   Python 3.10+
