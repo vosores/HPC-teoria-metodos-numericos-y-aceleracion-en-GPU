@@ -98,7 +98,7 @@ implementaciones en CPU y GPU para distintos modelos.
 
 
 ### Codigos_GPU
-- [Sesión 2: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia2)
+- [Sesión 2: Códigos GPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia2)
 
 
 ## Requisitos
