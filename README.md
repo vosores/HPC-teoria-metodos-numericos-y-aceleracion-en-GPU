@@ -86,17 +86,20 @@ implementaciones en CPU y GPU para distintos modelos.
 - [num_method](https://gist.github.com/vosores/979f55346142ac391d7f95ae918d7ce0)
 - [sedpoly_1D.py](https://gist.github.com/vosores/d7985abfbc76081e10bc45033ea160dd)
 
+#### Día 2
+- [eje1.py](https://gist.github.com/vosores/46d17d76f0658a17f318dfbf2fbc85e1)
+- [grilla_2d.py](https://gist.github.com/vosores/e4d0b6e209a46b51b25eba6acbfdffad)
+- [eje2.py](https://gist.github.com/vosores/360ae19a4df96796453f051fec3f1f59)
+- [eje3.py](https://gist.github.com/vosores/808c6952503dbb12f01892c6f754db2c)
+- [max_comp.py](https://gist.github.com/vosores/f5756e57b5e93f7f071d570ac23acc51)
+
 ### Codigos_CPU
 - [Sesión 1: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia1/)
-- [Sesión 2: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia2)
-- [Sesión 3: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia3)
-- [Sesión 4: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia4)
+
 
 ### Codigos_GPU
-- [Sesión 1: Códigos GPU.]()
-- [Sesión 2: Códigos GPU.]()
-- [Sesión 3: Códigos GPU.]()
-- [Sesión 4: Códigos GPU.]()
+- [Sesión 2: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia2)
+
 
 ## Requisitos
 
