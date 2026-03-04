@@ -9,7 +9,7 @@ T_end  = 1.0
 largo  = 0.3
 
 # opt=0: área fija, opt=1: área variable
-opt = 1
+opt = 0
 
 phi_hat = phi_max / (1.0 + C_exp)
 

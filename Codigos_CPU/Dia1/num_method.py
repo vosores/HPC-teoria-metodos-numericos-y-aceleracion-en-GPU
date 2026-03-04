@@ -127,7 +127,7 @@ Q0 = 4.0*(x <= 0.3 * L) +0.1 * ((x > 0.3 * L) & (x <= 0.6 * L)) + 1.0 * (x > 0.6
 
 Q = Q0.copy()
 t = 0.0
-flux_method="hll"  # 'godunov', 'roe', 'hll', 'lax-friedrichs'
+flux_method="roe"  # 'godunov', 'roe', 'hll', 'lax-friedrichs'
 
 
 

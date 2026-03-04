@@ -42,7 +42,7 @@ def simulate_upwind(u=1.0, L=1.0, N=400, CFL=0.9, T=1.0, bc="periodic"):
     dt = T / nsteps  # esto puede mejorar para que llegue exacto a T
 
     Q0 = np.exp(-((x - 0.25 * L) / (0.07 * L))**2)
-    Q0 = Q0 + 0.5 * (x > 0.6 * L)  # salto (para ver difusión numérica)
+    # Q0 = Q0 + 0.5 * (x > 0.6 * L)  # salto (para ver difusión numérica)
 
     Q = Q0.copy()
     return x, Q0, Q, dx, dt, nsteps, bc

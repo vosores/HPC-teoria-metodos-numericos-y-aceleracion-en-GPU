@@ -84,6 +84,7 @@ implementaciones en CPU y GPU para distintos modelos.
 - [upwind.py](https://gist.github.com/vosores/a64895fd54232cefe78cd285109a0693)
 - [burgers_godunov](https://gist.github.com/vosores/28887e4268b83007d3fd8299ff073355)
 - [num_method](https://gist.github.com/vosores/979f55346142ac391d7f95ae918d7ce0)
+- [sedpoly_1D.py](https://gist.github.com/vosores/d7985abfbc76081e10bc45033ea160dd)
 
 ### Codigos_CPU
 - [Sesión 1: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia1/)
