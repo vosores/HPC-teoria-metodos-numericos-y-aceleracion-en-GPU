@@ -37,7 +37,7 @@ def heavy_cpu_numba(a, b, c, iters):
 
 
 # Prueba de rendimiento comparando GPU vs CPU (Numba) vs CPU puro
-n = 10000000
+n = 10000
 iters = 500
 
 a = np.random.rand(n).astype(np.float32)

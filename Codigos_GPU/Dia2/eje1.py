@@ -21,7 +21,7 @@ print("CLOCK_RATE:", device.CLOCK_RATE)
 
 # Suma de 2 vectores con CPU puro vs GPU
 
-n = 10000000
+n = 1000000
 def suma(a,b,c):
     for i in range(c.size):
         c[i] = a[i] + b[i]
@@ -49,9 +49,9 @@ def add(a, b, c):
     if i < c.size:
         c[i] = a[i] + b[i]
 
-a = np.ones(n, dtype=np.float32)
-b = np.ones(n, dtype=np.float32)
-c = np.zeros(n, dtype=np.float32)
+# a = np.ones(n, dtype=np.float32)
+# b = np.ones(n, dtype=np.float32)
+# c = np.zeros(n, dtype=np.float32)
 
 d_a = cuda.to_device(a)
 d_b = cuda.to_device(b)

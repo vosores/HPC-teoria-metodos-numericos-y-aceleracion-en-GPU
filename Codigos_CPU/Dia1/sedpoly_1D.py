@@ -170,7 +170,7 @@ while tiempo < tf:
     F = Flujo(phi, num_celdas, num_especies, diam, d, g, df, tF=2)
     phi = metodo(phi, F, num_celdas, num_especies, dt, dx)
 
-    dt = 0.9 * dx
+    dt = 0.9 * dx # aquí se debe mejorar la cfl
     dt = min(dt, dtmax)
     dt = min(dt, ts - tiempo, tf - tiempo)
     tiempo = tiempo + dt
