@@ -93,6 +93,7 @@ implementaciones en CPU y GPU para distintos modelos.
 #### Día 3
 - [eje3.py](https://gist.github.com/vosores/808c6952503dbb12f01892c6f754db2c)
 - [max_comp.py](https://gist.github.com/vosores/f5756e57b5e93f7f071d570ac23acc51)
+- [FV_cuda.py](https://gist.github.com/vosores/73724ce26677de825d5c5a55f51a17af)
 - [sedpoly1d_cuda.py](https://gist.github.com/vosores/506557370abeddbda4290c1457a85220)
 
 ### Codigos_CPU
