@@ -88,7 +88,7 @@ implementaciones en CPU y GPU para distintos modelos.
 
 #### Día 2
 - [eje1.py](https://gist.github.com/vosores/46d17d76f0658a17f318dfbf2fbc85e1)
-- [grilla_2d.py](https://gist.github.com/vosores/e4d0b6e209a46b51b25eba6acbfdffad)
+- [grilla_2d.py](https://gist.github.com/vosores/97fe4d53bd47212f96bd86daeb5175c6)
 - [eje2.py](https://gist.github.com/vosores/360ae19a4df96796453f051fec3f1f59)
 #### Día 3
 - [eje3.py](https://gist.github.com/vosores/808c6952503dbb12f01892c6f754db2c)

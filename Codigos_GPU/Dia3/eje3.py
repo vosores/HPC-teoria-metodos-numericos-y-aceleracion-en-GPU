@@ -23,7 +23,7 @@ def matvec_rowmajor(A, x, y):
             s = s + A[i, j] * x[j]
         y[i] = s
 
-n = 100000
+n = 10000
 A = np.random.rand(n, n).astype(np.float32)
 x = np.random.rand(n).astype(np.float32)
 print("A MB:", A.nbytes / 1024**2)
