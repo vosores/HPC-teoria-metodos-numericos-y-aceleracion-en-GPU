@@ -95,6 +95,8 @@ implementaciones en CPU y GPU para distintos modelos.
 - [max_comp.py](https://gist.github.com/vosores/f5756e57b5e93f7f071d570ac23acc51)
 - [FV_cuda.py](https://gist.github.com/vosores/73724ce26677de825d5c5a55f51a17af)
 - [sedpoly1d_cuda.py](https://gist.github.com/vosores/506557370abeddbda4290c1457a85220)
+#### Día 4
+- [sw2D_cuda.py](https://gist.github.com/vosores/209feb2876ec981f46810752d6eec55b)
 
 ### Codigos_CPU
 - [Sesión 1: Códigos CPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_CPU/Dia1/)
@@ -103,6 +105,7 @@ implementaciones en CPU y GPU para distintos modelos.
 ### Codigos_GPU
 - [Sesión 2: Códigos GPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia2)
 - [Sesión 3: Códigos GPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia3)
+- [Sesión 4: Códigos GPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia4)
 
 ## Requisitos
 

@@ -209,7 +209,7 @@ def solve_burgers_vf_gpu(u0_phys, dx, tfinal, cfl=0.9, tpb=256, method="rusanov"
 # Uso
 t0 = time.perf_counter()
 
-n = 4096*3
+n = 4096*6
 L = 3.0
 x = np.linspace(0, L, n, dtype=np.float32)
 
@@ -220,7 +220,7 @@ dx = float(x[1] - x[0])
 tfinal = 15.0
 
 # Métodos disponibles: "rusanov", "roe", "hll", "laxf"
-uT = solve_burgers_vf_gpu(u0, dx, tfinal, cfl=0.9, tpb=256, method="laxf")
+uT = solve_burgers_vf_gpu(u0, dx, tfinal, cfl=0.9, tpb=256, method="hll")
 
 print("max|u| final:", np.max(np.abs(uT)))
 t1 = time.perf_counter()

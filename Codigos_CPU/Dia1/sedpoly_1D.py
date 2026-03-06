@@ -115,7 +115,7 @@ num_especies = 2
 
 dtmax = 0.1
 dt = 1.0e-5
-tf = 10.0
+tf = 30.0
 dts = 1.0
 
 LL = 1.0
