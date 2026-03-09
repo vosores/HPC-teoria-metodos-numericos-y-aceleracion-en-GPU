@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Presentaciones/img/gm3.png" height="70" style="margin: 0 8px;">
+  <img src="Presentaciones/img/dm2a.png" height="70" style="margin: 0 8px;">
+  <img src="Presentaciones/img/FCB.png" height="70" style="margin: 0 8px;">
+  <img src="Presentaciones/img/IMA.png" height="70" style="margin: 0 8px;">
+</p>
+
+## Conoce nuestro programa de doctorado haciendo click [aquí](https://refninja.org/umuvmM).
+
+
 # Leyes de conservación: teoría, métodos numéricos y aceleración en GPU
 
 Este repositorio contiene el material del seminario **"Leyes de
