@@ -117,6 +117,9 @@ implementaciones en CPU y GPU para distintos modelos.
 - [Sesión 3: Códigos GPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia3)
 - [Sesión 4: Códigos GPU.](https://github.com/vosores/HPC-teoria-metodos-numericos-y-aceleracion-en-GPU/blob/main/Codigos_GPU/Dia4)
 
+## Tareas
+Enviar tareas a mi correo: vosores@ucm.cl
+
 ## Requisitos
 
 -   Python 3.10+
